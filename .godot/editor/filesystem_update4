@@ -1,1 +1,4 @@
-res://new_script.gd
+res://scenes/background.tscn
+res://scenes/main.tscn
+res://scripts/main.gd
+res://scenes/platform.tscn
